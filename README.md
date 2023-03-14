@@ -1,16 +1,16 @@
 # mac-os-keyboard-layout-on-windows
-With this settings you can change your default windows keyboard layout to mac. Not all shortcuts included, but a big part. Create issues for new shortcuts
+Powertoys mapping settings.
+I added a few daily use shortcuts, if you detect missing combinations, create issues and i will add those.
 ## Known Conflicts
 Remove language change setting
 https://www.digitalcitizen.life/keyboard-language-shortcut/
 
-## New Mapping
-
+## Powertoys download link
 [Download Powertoys](https://github.com/microsoft/PowerToys)
 
 ### Import Settings
-In this Repo you will see existing settings. 
-You must import this to:
+The files from settings dir must be imported to following path, after an restart the new shortcuts are applied. 
+You must import this into:
 ```
 $HOME\AppData\Local\Microsoft\PowerToys\Keyboard Manager
 ```
